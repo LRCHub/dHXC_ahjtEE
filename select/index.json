@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "グッバイ宣言",
   "base_artist": "Chinozo",
-  "createdAt": "2025-12-13T09:10:27.722205Z",
+  "createdAt": "2026-03-17T22:13:14.524741Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,24 @@
       "artist": "Chinozo",
       "has_synced": false,
       "path": "select/pl_01_グッバイ宣言_Chinozo.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/localdb_01_グッバイ宣言_Chinozo.lrc",
+      "repo_name": "dHXC_ahjtEE"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/localdb_02_グッバイ宣言_Chinozo.lrc",
+      "repo_name": "lgy_wwhR0io"
     }
   ]
 }
